@@ -1,0 +1,7 @@
+D:\github\Desktopapp\StateDesignPattern\StateDesignPattern\obj\Debug\net10.0-windows\StateDesignPattern.Form1.resources
+D:\github\Desktopapp\StateDesignPattern\StateDesignPattern\obj\Debug\net10.0-windows\StateDesignPattern.csproj.GenerateResource.cache
+D:\github\Desktopapp\StateDesignPattern\StateDesignPattern\obj\Debug\net10.0-windows\StateDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Desktopapp\StateDesignPattern\StateDesignPattern\obj\Debug\net10.0-windows\StateDesignPattern.AssemblyInfoInputs.cache
+D:\github\Desktopapp\StateDesignPattern\StateDesignPattern\obj\Debug\net10.0-windows\StateDesignPattern.AssemblyInfo.cs
+D:\github\Desktopapp\StateDesignPattern\StateDesignPattern\obj\Debug\net10.0-windows\StateDesignPattern.csproj.CoreCompileInputs.cache
+D:\github\Desktopapp\StateDesignPattern\StateDesignPattern\obj\Debug\net10.0-windows\StateDesignPattern.sourcelink.json
